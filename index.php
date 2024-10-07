@@ -14,6 +14,7 @@
             cart in the session; show the contents and challenge for
             credentials;  test the credentials in success.php and
             show the message only if the credentials are "valid"
+            (if the username and password match the credentials are valid)
         -->
 
 
